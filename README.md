@@ -42,7 +42,6 @@ To ensure the application met all the outlined requirements, **Black Box Testing
     ```
 2. Compile and run the application using the provided makefile 
 
-    For example, using `g++`:
     ```bash
     make
     ```
