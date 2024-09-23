@@ -17,11 +17,15 @@ This C++ console application was designed and developed to track software featur
 The following documents were created to support this project:
 
 - **Requirement Specifications**: Details the features and functionalities of the application, including both functional and non-functional requirements.
-- [a relative link](TrackMasterArchitecturalDesignDocument.pdf)
+- [Architectural Design Document](TrackMasterArchitecturalDesignDocument.pdf)
 - **User Manual**: A step-by-step guide for users, explaining how to set up and operate the application.
+- [User Manual Document](TrackMasterUserManualDocument.pdf)
 - **Architectural Design**: Describes the system architecture, including the data model, file system structure, and class designs.
+- [Architectural Design Document](TrackMasterArchitecturalDesignDocument.pdf)
 - **Detailed Design Document**: Breaks down the system into smaller components, detailing the implementation of each class, function, and module.
+- [Detailed Design Document](TrackMasterDetailedDesignDocument.pdf)
 - **Integration Report**: Describes the process of combining the individual modules into a cohesive system, documenting any challenges faced during integration and the solutions applied.
+- [Detailed Integration Report Document](TrackMasterIntegrationReportDocument.pdf)
 
 ## Development Process
 
