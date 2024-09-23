@@ -19,6 +19,8 @@ The following documents were created to support this project:
 - **Requirement Specifications**: Details the features and functionalities of the application, including both functional and non-functional requirements.
 - **User Manual**: A step-by-step guide for users, explaining how to set up and operate the application.
 - **Architectural Design**: Describes the system architecture, including the data model, file system structure, and class designs.
+- **Detailed Design Document**: Breaks down the system into smaller components, detailing the implementation of each class, function, and module.
+- **Integration Report**: Describes the process of combining the individual modules into a cohesive system, documenting any challenges faced during integration and the solutions applied.
 
 ## Development Process
 
